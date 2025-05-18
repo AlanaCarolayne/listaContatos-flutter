@@ -1,16 +1,28 @@
-# listacontatos
+# 📇 Lista de Contatos
 
-A new Flutter project.
+Aplicativo Flutter simples para gerenciamento de contatos, desenvolvido como parte das aulas de Desenvolvimento Cross Platform.
 
-## Getting Started
+## 🧾 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+Este projeto foi criado com o objetivo de aplicar os conceitos aprendidos durante o curso de Desenvolvimento Cross Platform. A aplicação permite visualizar e adicionar contatos a uma lista, utilizando os principais widgets do Flutter, como `ListView.builder` e `ListTile`. Além disso, foram explorados os conceitos de widgets `Stateful` e `Stateless`, bem como a estruturação de um aplicativo utilizando o `MaterialApp`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Visualizar uma lista de contatos.
+- Adicionar novos contatos à lista.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias Utilizadas
+
+- **Flutter**: Framework para desenvolvimento de aplicativos multiplataforma.
+- **Dart**: Linguagem de programação utilizada pelo Flutter.
+- **Widgets**:
+  - `MaterialApp`
+  - `Scaffold`
+  - `AppBar`
+  - `ListView.builder`
+  - `ListTile`
+  - `TextField`
+  - `FloatingActionButton`
+
+
+
